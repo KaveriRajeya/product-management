@@ -1,0 +1,4 @@
+com\product\controller\HomeController.class
+com\product\ProductManagementCrudAppApplication.class
+com\product\entity\Products.class
+com\product\repository\ProductRepository.class
